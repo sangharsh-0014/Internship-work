@@ -82,7 +82,7 @@ The projects are part of my **internship training**.
 
 ## 👤 Author
 
-**Name:** Jadhav Jayram
+**Name:** Jadhav Sangharash
 **Branch:** Computer Science Engineering
 **Year:** Third Year
 
